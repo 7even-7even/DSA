@@ -1,5 +1,11 @@
 # DSA Resource Links
 
+---
+
+## TOP 50 INTERVIEW QUESTION
+
+- [Array](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/)
+
 ## STL (Standard Template Library)
 
 - [STL](https://www.geeksforgeeks.org/cpp/the-c-standard-template-library-stl/)
@@ -135,6 +141,7 @@
 - [Bellman Ford Shortest Path](https://www.geeksforgeeks.org/dsa/bellman-ford-algorithm-dp-23/)
 - [Floyd Warshall Algorithm](https://www.geeksforgeeks.org/dsa/floyd-warshall-algorithm-dp-16/)
 - [Multistage Graph Algorithm](https://www.geeksforgeeks.org/multistage-graph-shortest-path/)
+- [A* Algorithm](https://www.geeksforgeeks.org/dsa/a-search-algorithm/)
 
 ### Minimum Spanning Tree
 
@@ -146,3 +153,26 @@
 
 - [Topological Sorting](https://www.geeksforgeeks.org/dsa/topological-sorting/)
 - [Kahn's Algorithm](https://www.geeksforgeeks.org/dsa/topological-sorting-indegree-based-solution/)
+
+## Trie
+
+- [Trie](https://www.geeksforgeeks.org/dsa/trie-insert-and-search/)
+- [Trie Types](https://www.geeksforgeeks.org/dsa/types-of-tries/)
+
+## Greedy Algorithms
+
+- [Greedy Approach](https://www.geeksforgeeks.org/dsa/introduction-to-greedy-algorithm-data-structures-and-algorithm-tutorials/)
+
+- [Fractional Knapsack](https://www.geeksforgeeks.org/dsa/fractional-knapsack-problem/)
+- [Dijkstra Algo](https://www.geeksforgeeks.org/dsa/introduction-to-dijkstras-shortest-path-algorithm/)
+- [Kruskal's Algo](https://www.geeksforgeeks.org/dsa/kruskals-algorithm-simple-implementation-for-adjacency-matrix/)
+- [Prim's Algo](https://www.geeksforgeeks.org/dsa/prims-minimum-spanning-tree-mst-greedy-algo-5/)
+
+## Huffman Coding Algorithm
+
+- [Huffman Coding](https://www.geeksforgeeks.org/dsa/huffman-coding-greedy-algo-3/)
+- [Huffman Coding using Priority Queue](https://www.geeksforgeeks.org/dsa/huffman-coding-using-priority-queue/)
+
+## Lamda Function
+
+- [Lamda Function](https://www.geeksforgeeks.org/cpp/lambda-expression-in-c/)
