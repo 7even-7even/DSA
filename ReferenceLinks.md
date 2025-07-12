@@ -176,3 +176,16 @@
 ## Lamda Function
 
 - [Lamda Function](https://www.geeksforgeeks.org/cpp/lambda-expression-in-c/)
+
+## Dynamic Programming
+
+- [Dynamic Programming](https://www.geeksforgeeks.org/dsa/introduction-to-dynamic-programming-data-structures-and-algorithm-tutorials/)
+- [Tabulation Vs Memoization](https://www.geeksforgeeks.org/dsa/tabulation-vs-memoization/)
+
+## Backtracking
+
+- [Backtracking](https://www.geeksforgeeks.org/dsa/introduction-to-backtracking-2/)
+
+## Recursion
+
+- [Recursion](https://www.geeksforgeeks.org/dsa/introduction-to-recursion-2/)
