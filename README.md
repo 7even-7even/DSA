@@ -42,6 +42,7 @@ Welcome to my curated collection of Data Structures and Algorithms problems and 
 | 📐 Dynamic Programming | [17. DynamicPrigram...](./17.%20DynamicPrigram...) |
 | 🔙 Backtracking   | [18. Backtracking](./18.%20Backtracking) |
 | 🧾 Huffman Coding | [19. HuffmanCoding](./19.%20HuffmanCoding) |
+| ♾️ Recursion      | [20. Recursion](./20.%Recursion) |
 
 ---
 
