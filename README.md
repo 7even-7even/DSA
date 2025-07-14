@@ -78,6 +78,7 @@ Welcome to my curated collection of Data Structures and Algorithms problems and 
 
 ## 📄 Reference Materials
 
+- [CPP.md](./CPP.md) – essential reference links for learning C++ programming language
 - [ReferenceLinks.md](./ReferenceLinks.md) – curated links to helpful articles, videos, and cheat sheets
 - [STL.cpp](./STL.cpp) – Common STL operations in C++ used across the repo
 
@@ -98,6 +99,7 @@ This repository is built for:
 3. **Non-Linear Structures** (Trees, Graphs, Tries)
 4. **Algorithms** (Searching, Sorting, Hashing)
 5. **Advanced Techniques** (Recursion, Backtracking, DP, Greedy, Bit Manipulation)
+6. **C++ Language Reference** ([CPP.md](./CPP.md))
 
 ---
 
