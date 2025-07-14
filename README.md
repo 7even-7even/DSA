@@ -44,7 +44,7 @@ Welcome to my curated collection of Data Structures and Algorithms problems and 
 | 🔙 Backtracking   | [18. Backtracking](./18.%20Backtracking) | ✅ Complete | N-Queens, Sudoku, M-Coloring |
 | 🧾 Huffman Coding | [19. HuffmanCoding](./19.%20HuffmanCoding) | ✅ Complete | Data compression algorithms |
 | 🔄 Recursion      | [20. Recursion](./20.%20Recursion) | ✅ Complete | Factorial, Fibonacci, Sorting |
-| 🧮 Bit Manipulation | [21. BitManipulation](./21.%20BitManipulation) | 🔄 In Progress | Bit operations and tricks |
+| 🧮 Bit Manipulation | [21. BitManipulation](./21.%20BitManipulation) | ✅ Complete | Built-in bit ops, popcount, parity, clz, ctz |
 
 ---
 
@@ -97,14 +97,14 @@ This repository is built for:
 2. **Linear Data Structures** (Linked Lists, Stacks, Queues)
 3. **Non-Linear Structures** (Trees, Graphs, Tries)
 4. **Algorithms** (Searching, Sorting, Hashing)
-5. **Advanced Techniques** (Recursion, Backtracking, DP, Greedy)
+5. **Advanced Techniques** (Recursion, Backtracking, DP, Greedy, Bit Manipulation)
 
 ---
 
 ## 🏆 Repository Highlights
 
 - **500+ lines of well-documented C++ code**
-- **20+ major DSA topics covered**
+- **21+ major DSA topics covered**
 - **Multiple implementation approaches per algorithm**
 - **Real-world problem examples**
 - **Performance analysis and optimization tips**

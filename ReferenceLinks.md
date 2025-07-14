@@ -9,6 +9,7 @@
 ## STL (Standard Template Library)
 
 - [STL](https://www.geeksforgeeks.org/cpp/the-c-standard-template-library-stl/)
+- [C++ InBuilt Functions](https://www.geeksforgeeks.org/c/builtin-functions-gcc-compiler/)
 
 ---
 
@@ -189,3 +190,10 @@
 ## Recursion
 
 - [Recursion](https://www.geeksforgeeks.org/dsa/introduction-to-recursion-2/)
+
+## Bit Manipulation
+
+- [Bit Manipulation](https://www.geeksforgeeks.org/dsa/all-about-bit-manipulation/)
+- [Important Tactics](https://www.geeksforgeeks.org/dsa/bits-manipulation-important-tactics/)
+- [Bit Hacks](https://www.geeksforgeeks.org/competitive-programming/bit-tricks-competitive-programming/)
+- [Bit Manipulation in Competive Programming](https://www.geeksforgeeks.org/competitive-programming/bitwise-hacks-for-competitive-programming/)
