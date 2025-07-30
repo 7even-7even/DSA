@@ -5,6 +5,8 @@
 ## TOP 50 INTERVIEW QUESTION
 
 - [Array](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/)
+- [String](https://www.geeksforgeeks.org/dsa/top-50-string-coding-problems-for-interviews/)
+- [Linked List](https://www.geeksforgeeks.org/dsa/top-50-linked-list-interview-question/)
 
 ## STL (Standard Template Library)
 
